@@ -5,8 +5,8 @@ Package.describe(
 	{
 		name: "desaiuditd:accounts-hmis",
 		summary: "Login service for HMIS accounts",
-		version: "0.0.2",
-		git: "https://github.com/desaiuditd/account-hmis",
+		version: "0.0.3",
+		git: "https://github.com/ctagroup/account-hmis",
 	}
 );
 
